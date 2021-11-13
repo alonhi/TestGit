@@ -14,6 +14,7 @@ struct ContentView: View {
             .font(.body)
         Text("test 1")
         Text("test develpment")
+        Text("test rebase")
     }
 }
 

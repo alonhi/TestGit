@@ -14,4 +14,7 @@ struct TestGitApp: App {
             ContentView()
         }
     }
+    func cool() {
+        print("cooll")
+    }
 }

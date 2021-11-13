@@ -16,5 +16,6 @@ struct TestGitApp: App {
     }
     func cool() {
         print("cooll")
+        print("cooll2")
     }
 }

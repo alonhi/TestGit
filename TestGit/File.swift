@@ -10,5 +10,6 @@ import Foundation
 class cool {
     func cool() {
         print("cooollll")
+        print("coollll")
     }
 }
